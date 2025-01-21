@@ -1,0 +1,38 @@
+title: Some Test
+instructor: Bill Bob
+
+questions:
+  - id: 1
+    type: multi-choice
+    text: |
+      What is the foo that bars?
+    options:
+      a: Foo
+      b: Bar
+      c: Baz
+    answer: c
+  - id: 2
+    type: fill-blank
+    text: |
+      What is the _ at the eggs?
+    answer: spam
+  - id: 3
+    type: select-all
+    text: |
+      Which things go in the blender?
+    options:
+      a: chair
+      b: banana
+      c: egg
+      d: yogurt
+      e: ice
+    answer: b,c,e
+    # perhaps options may be randomly ordered and answer key generated based
+    # on variations in the test
+  - type: multi-choice
+    text: Which one brings heat?
+    options:
+      - ice
+      - fire
+      - dynamite
+    answer: dynamite
