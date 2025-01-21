@@ -1,0 +1,5 @@
+https://tex.stackexchange.com/questions/174872/generate-exam-from-a-question-bank
+https://tex.stackexchange.com/questions/8351/what-do-makeatletter-and-makeatother-do
+https://tex.stackexchange.com/questions/236041/how-to-typeset-a-radio-button
+https://tex.stackexchange.com/questions/247681/how-to-create-checkbox-todo-list
+https://www.overleaf.com/learn/latex/TikZ_package
